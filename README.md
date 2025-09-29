@@ -62,9 +62,9 @@ We're currently in **early development**, but we value collaboration with the co
 
 If you’re interested in collaborating, reach out:
 
-- **Website:** [veridocx.ai](https://veridocx.ai) *(placeholder)*
+- **Website:** [veridocx.ai](https://veridocx.ai)
 - **Email:** `team@veridocx.com`
-- **LinkedIn:** [linkedin.com/company/veridocx](https://linkedin.com/company/veridocx) *(placeholder)*
+- **LinkedIn:** [linkedin.com/company/veridocx](https://linkedin.com/company/veridocx)
 
 ---
 
